@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  BTVN CRUD API
+//  VNCERT
 //
-//  Created by ChâuNT on 25/10/2022.
+//  Created by ChâuNT on 04/11/2022.
 //
 
 import UIKit
